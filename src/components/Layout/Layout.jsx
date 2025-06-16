@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
-import Header from 'C:/Users/gamer/Desktop/PGW 1/routesv6web/src/components/Header'; 
-import Footer from 'C:/Users/gamer/Desktop/PGW 1/routesv6web/src/components/Footer'
+import Header from '../Header'; 
+import Footer from '../Footer'
 
 const Layout = () => {
   return (
